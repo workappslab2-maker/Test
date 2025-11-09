@@ -107,7 +107,7 @@
     }
   ],
   "wallpapers": [
-    [
+    
       {
         "id": 1,
         "name": "Top Choice Wallpaper 21",
@@ -1421,8 +1421,7 @@
         "category_ids": [
           1
         ]
-      }
-    ],
+      },
     {
       "id": 147,
       "name": "Blur Grainy Wallpaper 1",
